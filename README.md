@@ -50,3 +50,51 @@ This mock interview helped me improve how I present myself professionally and co
 
 I also learned that employers value not only technical skills, but also communication, confidence, and mindset. The experience highlighted areas for improvement, such as being more concise and clearly emphasizing the impact of my work. Overall, the mock interview strengthened my confidence and better prepared me to present myself as a capable and motivated future software developer.
 
+## 📝 Reflections (STAR Method)
+
+### 💻 Reflection: Coding CV in Markdown
+
+**S – Situation:**  
+I was required to create my CV using Markdown on GitHub. This was new to me, as I had never worked with Markdown before.
+
+**T – Task:**  
+I needed to learn Markdown and use it to build a CV that is clean, professional, and easy to read.
+
+**A – Action:**  
+At the beginning, the syntax was confusing, but I took time to experiment and understand how headings, lists, and spacing work. I built my CV step by step, making sure each section — especially skills and education — was structured clearly and not cluttered.
+
+**R – Result:**  
+I produced a clean and well-structured CV that I am confident presenting. I also gained a valuable skill in Markdown, and GitHub now feels like a practical tool rather than something unfamiliar.
+
+---
+
+### 🎥 Reflection: Mock Interview Video
+
+**S – Situation:**  
+Recording the mock interview felt uncomfortable at first because I am not used to speaking formally on camera.
+
+**T – Task:**  
+I needed to present myself professionally, answer questions clearly, and come across as confident.
+
+**A – Action:**  
+I prepared by thinking through common interview questions and how to answer them. During the recording, I focused on speaking clearly, staying composed, and sounding natural rather than memorised.
+
+**R – Result:**  
+The final video showed that I am capable of presenting myself professionally, while also highlighting areas for improvement such as confidence and delivery. It gave me a realistic sense of what to expect in actual interviews.
+
+---
+
+### 🌐 Reflection: Using GitHub Pages
+
+**S – Situation:**  
+Before this task, I did not know how to turn a GitHub project into a live website.
+
+**T – Task:**  
+I needed to publish my portfolio using GitHub Pages and ensure that it was accessible and displayed correctly.
+
+**A – Action:**  
+I followed the setup process, explored the settings, and tested my link multiple times to make sure everything worked properly. I made adjustments where needed to ensure the portfolio looked clean online.
+
+**R – Result:**  
+Seeing my work live as a website made the project feel more real and professional. I now understand how developers present their work publicly, and I feel more confident using GitHub beyond just submitting code.
+
